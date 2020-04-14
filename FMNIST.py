@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 21 12:14:39 2020
 
-@author: vivek
-"""
 
 from keras.datasets import fashion_mnist
 from keras.models import Sequential
